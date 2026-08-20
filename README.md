@@ -1,16 +1,18 @@
-## Hi there 👋
+🌱 My First GitHub Repository
 
-<!--
-**sucheta-deshmukh/sucheta-deshmukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! 👋 I'm a first-year Computer Science student starting my journey into the world of programming and technology.
 
-Here are some ideas to get you started:
+This repository is a collection of my learning, practice, experiments, and small projects as I build my coding skills step by step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 What I'm Learning
+💻 C Programming
+🌐 HTML & Web Development
+🧑‍💻 Git & GitHub
+🚀 More programming languages and technologies
+🎯 My Goal
+
+To learn consistently, practice regularly, and gradually become a confident Computer Science professional.
+
+“Every expert was once a beginner.” 🚀
+
+This is just the beginning of my coding journey! 💙
